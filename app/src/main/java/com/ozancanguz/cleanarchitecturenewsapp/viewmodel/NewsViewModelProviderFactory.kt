@@ -1,4 +1,4 @@
-package com.ozancanguz.cleanarchitecturenewsapp.ui
+package com.ozancanguz.cleanarchitecturenewsapp.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.ozancanguz.cleanarchitecturenewsapp.R
 import com.ozancanguz.cleanarchitecturenewsapp.ui.NewsActivity
-import com.ozancanguz.cleanarchitecturenewsapp.ui.NewsViewModel
+import com.ozancanguz.cleanarchitecturenewsapp.viewmodel.NewsViewModel
 
 
 class ArticleFragment : Fragment() {
