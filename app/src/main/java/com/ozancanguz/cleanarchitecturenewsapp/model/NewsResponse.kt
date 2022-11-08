@@ -1,4 +1,4 @@
-package com.ozancanguz.cleanarchitecturenewsapp
+package com.ozancanguz.cleanarchitecturenewsapp.model
 
 
 import com.google.gson.annotations.SerializedName

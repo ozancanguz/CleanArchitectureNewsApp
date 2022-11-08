@@ -2,7 +2,7 @@ package com.ozancanguz.cleanarchitecturenewsapp.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.ozancanguz.cleanarchitecturenewsapp.Article
+import com.ozancanguz.cleanarchitecturenewsapp.model.Article
 
 @Dao
 interface ArticleDao {

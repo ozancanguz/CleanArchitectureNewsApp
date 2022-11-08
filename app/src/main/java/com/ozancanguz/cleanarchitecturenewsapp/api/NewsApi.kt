@@ -1,6 +1,6 @@
 package com.ozancanguz.cleanarchitecturenewsapp.api
 
-import com.ozancanguz.cleanarchitecturenewsapp.NewsResponse
+import com.ozancanguz.cleanarchitecturenewsapp.model.NewsResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
